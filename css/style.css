@@ -1,0 +1,45 @@
+body {
+	background-color: white;
+	margin: auto;
+}
+
+table {
+	border-collapse: collapse;
+	width:750px;
+	margin: auto;
+	background-color: white;
+}
+
+td {
+	padding: 0px;
+	margin: 0px;
+}
+
+.logo {
+	width: 150px;
+	height: 50px;
+	margin-left: 41%;
+}
+
+a {
+	text-decoration: none;
+	margin-left: 10px;
+	list-style: none;
+	color: black;
+	text-transform: uppercase;
+}
+
+a:hover {
+	color:#389fff;
+}
+
+.header {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.hello {
+	width: 100%;
+	background: no-repeat;
+	height: 500px;
+}
